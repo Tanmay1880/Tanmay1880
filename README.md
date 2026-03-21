@@ -1,16 +1,41 @@
-## Hi there 👋
+# Tanmay Kaushik
 
-<!--
-**Tanmay1880/Tanmay1880** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java Backend Developer (in progress)
+📍 Greater Noida, India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I’m currently learning and building in the Java backend ecosystem.
+Focused on understanding concepts deeply rather than just using them.
+
+* 🌱 Learning **Java, OOP, and backend development**
+* 🔧 Exploring **Spring Boot and REST APIs**
+* 📈 Practicing **DSA to improve problem-solving**
+
+---
+
+## 🛠️ Tech Stack
+
+* **Languages:** Java, C/C++ (basic)
+* **Core:** OOP, Data Structures
+* **Backend:** Spring Boot (learning phase)
+* **Database:** MySQL
+* **Tools:** Git, GitHub, IntelliJ / VS Code
+
+---
+
+## 📌 Current Focus
+
+* Building backend projects
+* Strengthening fundamentals
+* Understanding how real systems work
+
+---
+
+## 📫 Contact
+
+[tanmaykaushik1866@gmail.com](mailto:tanmaykaushik1866@gmail.com)
+
+---
