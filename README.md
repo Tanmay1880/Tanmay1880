@@ -1,4 +1,4 @@
-# Tanmay Kaushik
+# Tanmay 
 
 💻 Java Backend Developer (in progress)
 📍 Greater Noida, India
