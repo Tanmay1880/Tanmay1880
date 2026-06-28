@@ -1,41 +1,56 @@
-# Tanmay 
+# Hi, I'm Tanmay Kaushik
 
-💻 Java Backend Developer (in progress)
-📍 Greater Noida, India
-
----
-
-## 🚀 About Me
-
-I’m currently learning and building in the Java backend ecosystem.
-Focused on understanding concepts deeply rather than just using them.
-
-* 🌱 Learning **Java, OOP, and backend development**
-* 🔧 Exploring **Spring Boot and REST APIs**
-* 📈 Practicing **DSA to improve problem-solving**
+Final Year B.Tech Computer Science Student
+Aspiring Java Backend Developer
+Greater Noida, India
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-* **Languages:** Java, C/C++ (basic)
-* **Core:** OOP, Data Structures
-* **Backend:** Spring Boot (learning phase)
-* **Database:** MySQL
-* **Tools:** Git, GitHub, IntelliJ / VS Code
+I am a Computer Science student focused on Java backend development. My current work centers on building backend applications, strengthening computer science fundamentals, and improving problem-solving through Data Structures and Algorithms.
+
+I believe in understanding how software works internally and applying those concepts by building real projects.
 
 ---
 
-## 📌 Current Focus
+## Technical Skills
 
-* Building backend projects
-* Strengthening fundamentals
-* Understanding how real systems work
+**Languages**
+
+* Java
+* SQL
+* JavaScript (Learning)
+
+**Backend**
+
+* Spring Boot
+* REST APIs
+* Maven
+
+**Database**
+
+* MySQL
+* MongoDB
+
+**Tools**
+
+* Git
+* GitHub
+* IntelliJ IDEA
+* VS Code
+* Postman
 
 ---
 
-## 📫 Contact
+## Current Work
 
-[tanmaykaushik1866@gmail.com](mailto:tanmaykaushik1866@gmail.com)
+* Building a MakeMyTrip Backend Clone
+* Practicing Data Structures & Algorithms in Java
+* Learning Spring Boot and Backend Development
 
 ---
+
+## Contact
+
+Email: [tanmaykaushik1866@gmail.com](mailto:tanmaykaushik1866@gmail.com)
