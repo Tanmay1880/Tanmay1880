@@ -57,13 +57,12 @@ Collection of Java solutions focused on:
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanmay1880&show_icons=true&theme=github_dark&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanmay1880&theme=github_dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Tanmay1880&theme=github-dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay1880&layout=compact&theme=github_dark&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanmay1880&theme=github_dark)
 
-[![Tanmay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanmay1880&theme=github-dark)](https://github.com/Tanmay1880)
 
 ## Goals
 
